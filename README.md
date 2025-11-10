@@ -14,3 +14,13 @@ This is the second project of the fulltime Software Engineering program at Tripl
 ## Plan on improving the project
 
 Add your ideas here :)
+
+1. Probably to let the student's experiment and add features.
+   (As long as the layout is similar)
+2. Have a couple of silly images in the "images" directory to give the a choice of backgrounds.
+   (Makes it a bit more interactive to have choices)
+3. And make them add a fixed link to scroll up for them since the page is a bit long.
+4. Maybe as a "bonus" let us add a background song. With very few instructions. (Optional.)
+
+_For the "challenging" areas maybe put the chapter and section they talked over them._
+_Just in case it's needed._
