@@ -5,25 +5,26 @@
   justify-content: space-between;
   position: relative;
   overflow: hidden;
+  padding: 100px 80px 173px;
 }
 
 .about__title {
   display: flex;
   max-width: 251px;
-  margin: 100px 0 0 80px;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
   z-index: 2;
+  margin: 0;
 }
 
 .about__content {
   display: flex;
   flex-direction: column;
   max-width: 660px;
-  margin: 119px 80px 173px 0;
+  margin-top: 19px;
   gap: 20px;
   font-family: "Noto Serif";
   font-style: normal;

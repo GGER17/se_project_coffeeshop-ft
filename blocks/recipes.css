@@ -5,9 +5,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 215px;
-  padding-top: 100px;
-  padding-left: 80px;
+  padding: 100px 80px 215px;
 }
 
 .recipes__title {
