@@ -22,5 +22,4 @@ Add your ideas here :)
 3. And make them add a fixed link to scroll up for them since the page is a bit long.
 4. Maybe as a "bonus" let us add a background song. With very few instructions. (Optional^\_^)
 
-_For the "challenging" areas maybe put the chapter and section they talked over them._
-_Just in case it's needed._
+
